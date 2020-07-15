@@ -1,4 +1,4 @@
-# coding=by;kakdelam
+# edit=by;kakdelam
 #!/usr/bin/env python3
 
 """ 
